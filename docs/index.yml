@@ -1,0 +1,18 @@
+- name: General
+  files:
+    - name: Welcome
+      path: welcome.md
+    - name: Changelog
+      path: changelog.md
+- name: Installation
+  files:
+    - name: Installation
+    - path: Installation.md
+- name: API
+  files:
+    - name: API Installation
+    - path: apiinstall.md
+  - name: Points (Test)
+    files: 
+      - name: API Installation
+      - path: apiinstall.md
