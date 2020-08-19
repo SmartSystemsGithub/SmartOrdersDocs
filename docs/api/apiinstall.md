@@ -2,7 +2,14 @@
 
 # **Install The API**
 
-<img style="height: 91px; width: 595px" src="https://cdn.discordapp.com/attachments/705585978168836118/745756830700929114/unknown.png"></img>
+<img id="hint1"></img>
+<script>
+if (Number(screen.size) < 1000) {
+    document.getElementById("hint1").src = "https://cdn.discordapp.com/attachments/705585978168836118/745782304248561704/unknown.png"
+} else {
+    document.getElementById("hint1").src = "https://cdn.discordapp.com/attachments/705585978168836118/745769138290688020/unknown.png"
+}
+</script>
 
 </div>
 
