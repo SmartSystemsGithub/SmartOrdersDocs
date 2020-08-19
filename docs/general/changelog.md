@@ -24,4 +24,4 @@
 
 ## 1.0.0 - 2020-07-12
 ### **Added**
-- Major Features
+- Major Features Released

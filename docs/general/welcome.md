@@ -5,7 +5,7 @@
   </p>
   <br>
   
-# SmartOrders
+# **SmartOrders**
 
 Welcome to the documentation.
 
