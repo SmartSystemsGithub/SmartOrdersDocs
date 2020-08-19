@@ -4,8 +4,8 @@
   "description": "Welcome to the SmartOrders Docs. There are here for the docs site to use.",
   "scripts": {
     "test": "npm run docs:test",
-    "docs": "docgen --custom docs/index.yml --output docs/docs.json",
-    "docs:test": "docgen --custom docs/index.yml"
+    "docs": "docgen --source docgenhandler --custom docs/index.yml --output docs/docs.json",
+    "docs:test": "docgen --source docgenhandler --custom docs/index.yml"
   },
   "repository": {
     "type": "git",
