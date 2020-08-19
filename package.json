@@ -1,0 +1,22 @@
+{
+  "name": "smartorders-docs",
+  "version": "1.0.0",
+  "description": "Welcome to the SmartOrders Docs. There are here for the docs site to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartSystemsGithub/SmartOrdersDocs.git"
+  },
+  "author": "Sasial-Roblox (https://github.com/sasial-roblox)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SmartSystemsGithub/SmartOrdersDocs/issues"
+  },
+  "homepage": "https://github.com/SmartSystemsGithub/SmartOrdersDocs#readme",
+  "devDependencies": {
+    "docgen": "discordjs/docgen"
+  }
+}
