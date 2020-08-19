@@ -2,9 +2,10 @@
   "name": "smartorders-docs",
   "version": "1.0.0",
   "description": "Welcome to the SmartOrders Docs. There are here for the docs site to use.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run docs:test",
+    "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+    "docs:test": "docgen --source src --custom docs/index.yml"
   },
   "repository": {
     "type": "git",
