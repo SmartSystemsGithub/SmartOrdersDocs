@@ -7,8 +7,12 @@
 - name: Installation
   files:
     - name: Installation
-    - path: Installation.md
+      path: Installation.md
 - name: API
   files:
     - name: API Installation
-    - path: apiinstall.md
+      path: apiinstall.md
+    - name: Points (Test)
+      files: 
+            - name: API Installation
+            - path: apiinstall.md
