@@ -12,7 +12,3 @@
   files:
     - name: API Installation
     - path: apiinstall.md
-  - name: Points (Test)
-    files: 
-      - name: API Installation
-      - path: apiinstall.md
