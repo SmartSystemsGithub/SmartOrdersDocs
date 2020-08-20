@@ -13,19 +13,51 @@ This command detects when a player's point's has changed through the API.
 
 ### **Parameters**
 
-| Name | Type | Description |
-| ----------- | ----------- | ------- |
-| Callback Function | Function | The function that will be ran when the point has changed.
+<div class="container">
+  <ul class="responsive-table">
+    <li class="table-header">
+      <div class="col col-1">Name</div>
+      <div class="col col-2">Type</div>
+      <div class="col col-3">Description</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Name">Callback Function</div>
+      <div class="col col-2" data-label="Type">Function</div>
+      <div class="col col-3" data-label="Description">The function that will be ran when the point has changed.</div>
+    </li>
+  </ul>
+</div>
+
 
 <br>
 
 ### **Response**
 
-| Name | Type | Description |
-| ----------- | ----------- | ------- |
-| isManual | Boolean | If this is false, it means that the point was updated by SmartOrders.
-| pointAmount | Integer | The amount of points the user has.
-| player | PlayerObject | The player that has had the points updated.
+<div class="container">
+  <ul class="responsive-table">
+    <li class="table-header">
+      <div class="col col-1">Name</div>
+      <div class="col col-2">Type</div>
+      <div class="col col-3">Description</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Name">isManual</div>
+      <div class="col col-2" data-label="Type">Boolean</div>
+      <div class="col col-3" data-label="Description">If this is false, it means that the point was updated by SmartOrders.</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Name">pointAmount</div>
+      <div class="col col-2" data-label="Type">Integer</div>
+      <div class="col col-3" data-label="Description">The amount of points the user has.</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Name">player</div>
+      <div class="col col-2" data-label="Type">PlayerObject</div>
+      <div class="col col-3" data-label="Description">The player that has had the points updated.</div>
+    </li>
+  </ul>
+</div>
+
 
 <br>
 
