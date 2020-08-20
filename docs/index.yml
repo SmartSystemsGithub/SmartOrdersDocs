@@ -12,3 +12,21 @@
   files:
     - name: API Installation
       path: apiinstall.md
+- name: Points
+  files:
+    - name: Points
+      path: points.md
+    - name: Add Points
+      path: addpoints.md
+    - name: Remove Points
+      path: removepoints.md
+    - name: Get Points
+      path: getpoints.md
+    - name: On Point Changed
+      path: onpointchanged.md
+- name: Orders
+  files: 
+    - name: Orders
+      path: orders.md
+    - name: Create Order 
+      path: forcecreateorder.md
