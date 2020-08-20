@@ -2,7 +2,7 @@
 
 # **Install The API**
 
-<img id="hint1" src="https://cdn.discordapp.com/attachments/705585978168836118/745782304248561704/unknown.png"></img>
+<img id="hint1" style="padding-top: 30px" src="https://cdn.discordapp.com/attachments/705585978168836118/745782304248561704/unknown.png"></img>
 
 </div>
 
@@ -12,4 +12,6 @@ local api = require(game:GetService("ReplicatedStorage").SmartOrders.Api)
 ```
 From there you may use the following things in this guide.
 
-> You may only run API commands from the server.
+<div align="center">
+    <img id="hint1" style="padding-top: 30px;" src="https://cdn.discordapp.com/attachments/705585978168836118/745794197440954438/unknown.png">
+</div>
