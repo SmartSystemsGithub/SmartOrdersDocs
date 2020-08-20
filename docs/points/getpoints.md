@@ -11,9 +11,20 @@ This command allows you get the user's points through the API.
 
 ### **Parameters**
 
-| Name | Type | Description |
-| ----------- | ----------- | ------- |
-| User ID | Integer | The ID of the user. Can be gotten from `Player.UserId`.
+<div class="container">
+  <ul class="responsive-table">
+    <li class="table-header">
+      <div class="col col-1">Name</div>
+      <div class="col col-2">Type</div>
+      <div class="col col-3">Description</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Name">UserId</div>
+      <div class="col col-2" data-label="Type">Integer</div>
+      <div class="col col-3" data-label="Description">The ID of the user. Can be gotten from `Player.UserId`.</div>
+    </li>
+  </ul>
+</div>
 
 <br>
 
