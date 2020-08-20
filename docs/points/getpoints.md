@@ -7,6 +7,7 @@
 
 This command allows you get the user's points through the API.
 
+<br>
 
 ### **Parameters**
 
@@ -14,11 +15,13 @@ This command allows you get the user's points through the API.
 | ----------- | ----------- | ------- |
 | User ID | Integer | The ID of the user. Can be gotten from `Player.UserId`.
 
-
+<br>
 
 ### **Response**
 
 Coming Soon.
+
+<br>
 
 ### **Example**
 

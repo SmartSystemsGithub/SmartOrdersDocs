@@ -7,6 +7,8 @@
 
 With SmartOrders, points are not able to be hacked. Therefore, to add points you must use the following API, or through using SmartOrders.
 
+<br>
+
 The API Includes:
 
 - [​Add Points​]()
@@ -17,5 +19,6 @@ The API Includes:
 
 - ​[On Point Changed​]()
 
+<br>
 
 Please note that links don't work yet!

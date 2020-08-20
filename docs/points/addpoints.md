@@ -5,8 +5,11 @@
 ---
 </div>
 
+<br>
+
 This command allows you to add points through the API.
 
+<br>
 
 ### **Parameters**
 
@@ -15,10 +18,13 @@ This command allows you to add points through the API.
 | User ID | Integer | The ID of the user. Can be gotten from `Player.UserId`.
 | Points | Integer | The amount of points to add to the user.
 
+<br>
 
 ### **Response**
 
 Coming Soon.
+
+<br>
 
 ### **Example**
 

@@ -4,9 +4,12 @@
 ## **On Point Changed**
 ---
 </div>
+ 
+<br>
 
 This command detects when a player's point's has changed through the API.
 
+<br>
 
 ### **Parameters**
 
@@ -26,7 +29,9 @@ This command detects when a player's point's has changed through the API.
 
 <br>
 
-### **Example**
+### **Examples**
+
+<br>
 
 ## Point Bonus
 ```lua
@@ -40,6 +45,7 @@ api.Points.OnPointChanged:Connect(function(isManual,pointAmount,player)
  api.Points:Add(player.UserId,1) 
 end)
 ```
+<br>
 
 ## Checking Points
 ```lua
