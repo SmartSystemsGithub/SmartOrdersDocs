@@ -24,6 +24,8 @@
       path: getpoints.md
     - name: On Point Changed
       path: onpointchanged.md
+    - name: Set Points
+      path: setpoints.md
 - name: Orders
   files: 
     - name: Orders
