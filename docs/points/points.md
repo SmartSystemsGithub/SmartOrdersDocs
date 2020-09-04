@@ -19,6 +19,8 @@ The API Includes:
 
 - ​[On Point Changed​]()
 
+- ​[Set Points]()
+
 <br>
 
 Please note that links don't work yet!
